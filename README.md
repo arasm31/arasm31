@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arasm31
 - 👀 I’m interested in Javascript, HTML, CSS, PHP, python, etc.
 - 🌱 I’m currently learning Javascript, HTML, CSS, PHP
-- 💞️ I’m looking to collaborate on the community and share knowlegdes.
+- 💞️ I’m looking to collaborate on the community and share knowledge.
 - 📫 How to reach me 
 - arasm.geof@gmail.com.
 
